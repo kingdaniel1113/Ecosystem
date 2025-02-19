@@ -1,0 +1,33 @@
+{
+    "configurations": [
+        {
+            "name": "Win32",
+            "includePath": [
+                "C:\\Users\\kingd\\source\\repos\\CPP\\Ecosystem\\include",
+                "C:/SFML/SFML-2.6.2/include/",
+                "${workspaceFolder}/**"
+            ],
+            "defines": [
+                "_DEBUG",
+                "UNICODE",
+                "_UNICODE",
+                "SFML_STATIC"
+            ],
+            "windowsSdkVersion": "10.0.22621.0",
+            "compilerPath": "C:\\WinLibs MSVCRT 13.1.0 (64-bit)\\mingw64\\bin\\g++.exe",
+            "cStandard": "c17",
+            "cppStandard": "c++17",
+            "intelliSenseMode": "gcc-x64",
+            "browse": {
+                "path": [
+                    "C:/SFML/SFML-2.6.2/include/",
+                    "C:\\SFML\\SFML-2.6.2\\lib\\",
+                    "C:\\WinLibs MSVCRT 13.1.0 (64-bit)\\mingw64\\include",
+                    "C:\\Users\\kingd\\source\\repos\\CPP\\Ecosystem\\include",
+                    "${workspaceFolder}/**"
+                ]
+            }
+        }
+    ],
+    "version": 4
+}
