@@ -8,8 +8,11 @@
 class Window
 {
 private:
+    int windowHeight;
+    int windowWidth;
     sf::RenderWindow window;
     World world;
+    sf::View mainView;
     void processInputs();
     // std::vector<sf::RectangleShape &> myRectangles;
 

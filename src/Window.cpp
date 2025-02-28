@@ -18,7 +18,6 @@ void Window::run()
         }
         processInputs();
         world.update();
-
         window.clear();
         world.render(window);
         window.display();
